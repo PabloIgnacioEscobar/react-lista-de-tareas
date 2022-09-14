@@ -2,7 +2,7 @@
   "name": "react-taskapp-localstorage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PabloIgnacioEscobar.github.io/Lista-de-tareas-3.0",
+  "homepage": "https://PabloIgnacioEscobar.github.io/react-lista-de-tareas",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
